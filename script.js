@@ -1,4 +1,4 @@
-wasfunction setup() {
+function setup() {
 	createCanvas(500, 400);
 }
 
