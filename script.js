@@ -1,4 +1,4 @@
-function setup() {
+Function setup() {
 	createCanvas(500, 400);
 }
 
